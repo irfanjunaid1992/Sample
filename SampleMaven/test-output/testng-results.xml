@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="179" started-at="2017-07-12T07:43:44Z" finished-at="2017-07-12T07:43:44Z">
+    <groups>
+      <group name="Login">
+        <method signature="Sample1.first()[pri:0, instance:SampleMaven.SampleMaven.Sample1@604ed9f0]" name="first" class="SampleMaven.SampleMaven.Sample1"/>
+        <method signature="Sample1.get()[pri:0, instance:SampleMaven.SampleMaven.Sample1@604ed9f0]" name="get" class="SampleMaven.SampleMaven.Sample1"/>
+      </group> <!-- Login -->
+    </groups>
+    <test name="Test" duration-ms="179" started-at="2017-07-12T07:43:44Z" finished-at="2017-07-12T07:43:44Z">
+      <class name="SampleMaven.SampleMaven.Sample1">
+        <test-method status="PASS" signature="first()[pri:0, instance:SampleMaven.SampleMaven.Sample1@604ed9f0]" name="first" duration-ms="66" started-at="2017-07-12T13:13:44Z" finished-at="2017-07-12T13:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="get()[pri:0, instance:SampleMaven.SampleMaven.Sample1@604ed9f0]" name="get" duration-ms="9" started-at="2017-07-12T13:13:44Z" finished-at="2017-07-12T13:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- SampleMaven.SampleMaven.Sample1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
