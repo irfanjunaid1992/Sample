@@ -17,6 +17,7 @@ public class Sample1 extends Extra {
 	@Test(groups={"Login"})
 	public void get()
 	{
+		
 		System.out.println();
 	}
 
